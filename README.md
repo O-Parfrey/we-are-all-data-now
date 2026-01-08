@@ -1,20 +1,24 @@
 # We Are All Data Now
 
-An ARPG rogue-like with persistent upgrades and multiple characters.
+An ARPG roguelike concept focused on persistent progression, experimental builds, and systems-driven gameplay.
 
 ## Overview
-This project serves as a design and systems exploration for a mix of game concepts with the main focus of the game being to see how far you can get with crazy build choices and choosing upgrades and equipment carefully for each character. 
+We Are All Data Now is a design and systems exploration for a top-down action roguelike that blends elements of looter shooters, bullet hells, and ARPGs. The core focus is on player-driven build experimentation and long-term progression across runs rather than single-run mastery.
 
 ## Design Focus
-- Persistent world and character states
-- Open routes to get to the objective
-- Top-Down looter shooter with Rogue-like aspects
-- 8 characters, multiple endings.
-- Story will be written for each character, with all characters coming together for the final boss. 
+- Persistent character progression across runs
+- Experimental build paths driven by gear and upgrades
+- Open route selection toward objectives
+- Multiple playable characters with distinct mechanics
+- Replayability through branching paths and endings
+
+## Core Concept
+Players choose from multiple characters, each with unique strengths and playstyles, and engage in short, high-intensity runs. Gear, upgrades, and progression choices persist beyond individual runs, allowing players to gradually push further and experiment with increasingly complex builds.
 
 ## Current Contents
-- Game design documentation
-- System concepts and progression ideas
+- High-level game design documentation
+- System and progression concepts
+- Early narrative and worldbuilding exploration
 
 ## Status
-Design Phase / In Progress
+Design Phase
